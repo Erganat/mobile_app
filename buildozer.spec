@@ -2,7 +2,7 @@
 
 # (str) Title of your application
 title = Mobile App
-#asdf
+
 # (str) Package name
 package.name = mobileapp
 
